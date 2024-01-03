@@ -23,7 +23,7 @@
     "ify-loader": "^1.1.0",
     "mini-css-extract-plugin": "^0.5.0",
     "mssql": "^5.0.5",
-    "plotly.js": "^1.45.3",
+    "plotly.js": "^2.25.2",
     "plotly.js-dist": "^1.45.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
